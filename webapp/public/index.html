@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Puzzle Study</title>
+
+    <script src="https://kit.fontawesome.com/57884752f2.js" crossorigin="anonymous"></script>
+
+    <script src="https://code.jquery.com/jquery-3.5.0.min.js" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="/css/bootstrap-social.css">
+    <link rel="stylesheet" href="/css/style.css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.19.0/cytoscape.min.js" integrity="sha512-TOWs340KHbJjY/a2SCtsUcXYBg7/xPX72NKpJ3VITogkHJTy2yMyoJE0pxJjumMGHCg46ud89KO5q1Toe3Aeaw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="/js/basic-ui.js"></script>
+    <script src="/js/controller.js"></script>
+    <script src="/js/dbwriter.js"></script>
+    <script src="/js/dda-fxs.js"></script>
+    <script src="/js/graph-style.js"></script>
+    <script src="/js/random.js"></script>
+    <script src="/js/utils.js"></script>
+  </head>
+  <body>
+    <div class="view">
+      <div class="container">
+      </div>
+    </div>
+
+    <!-- import bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <script type="text/javascript">
+      const session_id = makeid(40);
+      const debugging = false;
+      const surveying = true;
+      const survey_name = "dda85";
+      window.prev_graph = {};
+      window.student_data = {
+        "theta": 0.1879,
+        "history": [],
+        "play_count": 0,
+        "cumu_success": 0,
+        "cumu_fail": 0,
+        "cumu_timeout": 0
+      };
+      window.attf = 0;
+      window.bonus_payment = 0;
+
+      $.ajax({
+        url: "/request_condition",
+        type: "POST",
+        cache: false,
+        contentType: "application/json",
+        data: JSON.stringify({
+          "session_id": session_id,
+          "user": "normal"
+        }),
+        timeout: 3000
+      }).done((obj) => {
+        window.exp_condition = obj["condition"];
+
+        let pretest_arr = [];
+        let posttest_arr = [];
+
+        for(let i = 301; i <= 305; i += 2)
+        {
+          if(Math.random() < 0.5)
+          {
+            pretest_arr.push(i);
+            posttest_arr.push(i + 1);
+          } else {
+            pretest_arr.push(i + 1);
+            posttest_arr.push(i);
+          }
+        }
+
+        pretest_arr = randomPermutation(pretest_arr);
+        posttest_arr = randomPermutation(posttest_arr);
+
+        window.controller = new Controller([
+          { "fx": ddaConsent, "args": [] },
+          { "fx": ddaDemographic, "args": [] },
+          { "fx": ddaPuzzle, "args": [[], true, 1, "tutorial", ["tut"]] },
+          { "fx": ddaPretestDesc, "args": [] },
+          { "fx": ddaPuzzle, "args": [[], false, 3, "pretest", pretest_arr, false, true] },
+          { "fx": ddaTrainDesc, "args": [] },
+          { "fx": ddaPuzzle, "args": [[], false, 12, "train", [], (window.exp_condition == "self-determined")] },
+          { "fx": ddaPosttestDesc, "args": [] },
+          { "fx": ddaPuzzle, "args": [[], false, 3, "posttest", posttest_arr, false, true] },
+          { "fx": ddaQuestionnaireDDA, "args": [] },
+          { "fx": ddaEndProlific, "args": [] }
+        ]);
+
+        window.controller.triggerNextPage();
+      });
+
+      // prevent accidental leave
+      window.course_ended = false;
+
+      window.onbeforeunload = function() {
+        logEvent("general", "try-close", {});
+
+        if(!window.course_ended) {
+          return "Do you really want to leave this page? Your progress will not saved.";
+        } else {
+          return;
+        }
+      };
+
+      // check page focus
+      window.page_focused = true;
+
+      document.addEventListener("visibilitychange", function() {
+        if(typeof window.updateVisibilityChange === "function")
+        {  
+          window.updateVisibilityChange((document.hidden)? false: true);
+        }
+      });
+    </script>
+  </body>
+</html>

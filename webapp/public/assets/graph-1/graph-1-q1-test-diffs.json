@@ -1,0 +1,38 @@
+{
+    "graph-1-q1-301.json": {
+        "prob": 0.3278,
+        "mis_size": 5,
+        "vertices": 10,
+        "edges": 15
+    },
+    "graph-1-q1-302.json": {
+        "prob": 0.4109,
+        "mis_size": 5,
+        "vertices": 10,
+        "edges": 18
+    },
+    "graph-1-q1-303.json": {
+        "prob": 0.2236,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 28
+    },
+    "graph-1-q1-304.json": {
+        "prob": 0.2788,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 33
+    },
+    "graph-1-q1-305.json": {
+        "prob": 0.1605,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 25
+    },
+    "graph-1-q1-306.json": {
+        "prob": 0.1632,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 26
+    }
+}

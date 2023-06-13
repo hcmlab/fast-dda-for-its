@@ -1,0 +1,140 @@
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+
+.view
+{
+  background: linear-gradient(176deg, #add8e6  38%, #fff 38%);
+  display: flex;
+  flex-flow: column;
+  position: relative;
+}
+
+.container-fluid-width {
+  width: 92%;
+}
+
+@media only screen and (max-width: 768px) and (orientation: portrait)
+{
+  /* For mobile phones: */
+
+  .view {
+    background: linear-gradient(176deg, #add8e6 25%, #fff 25%);
+    display: flex;
+    flex-flow: column;
+    position: relative;
+  }
+
+  .container-fluid-width {
+    width: 100%;
+  }
+}
+
+p {
+  text-align: justify;
+}
+
+li > p, p {
+  margin-bottom: 0;
+}
+
+img {
+  max-height:100%;
+  max-width:100%;
+}
+
+.quiz-activity-div {
+  width: 100%;
+  display: block;
+  margin: 3px auto;
+}
+
+.graph-div {
+  width: 90%;
+  height: 400px;
+  display: block;
+  text-align: left;
+}
+
+.graph-div-small {
+  width: 90%;
+  height: 250px;
+  display: block;
+  text-align: left;
+}
+
+.graph-div-tiny {
+  width: 90%;
+  height: 200px;
+  display: block;
+  text-align: left;
+}
+
+.circle-div {
+  width: 40px;
+  height: 40px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+.circle-active {
+  border: 5px solid #000;
+}
+
+table.sudoku { border-collapse: collapse; font-family: Calibri, sans-serif; }
+table.sudoku colgroup, table.sudoku tbody { border: solid medium; }
+table.sudoku td { border: solid thin; height: 1.4em; width: 1.4em; text-align: center; padding: 0; }
+
+table.questionnaire tr td:nth-child(2), table.questionnaire tr th:nth-child(2),
+table.questionnaire tr td:nth-child(3), table.questionnaire tr th:nth-child(3),
+table.questionnaire tr td:nth-child(4), table.questionnaire tr th:nth-child(4),
+table.questionnaire tr td:nth-child(5), table.questionnaire tr th:nth-child(5),
+table.questionnaire tr td:nth-child(6), table.questionnaire tr th:nth-child(6) { text-align: center; }
+
+.spoiler-content {
+  padding: 15px;
+  border: #999 1px solid;
+}
+
+.clock-text {
+  color: #000;
+}
+
+.dotted {
+  border-bottom: 1px dotted;
+}
+
+.same-line-parent {
+  white-space: nowrap;
+}
+
+.same-line-child {
+  display: inline-block;
+}
+
+.sup-text {
+  font-size: 60%;
+}
+
+th.rotate {
+  vertical-align: bottom;
+  text-align: center;
+}
+
+th.rotate span {
+  -ms-writing-mode: tb-rl;
+  -webkit-writing-mode: vertical-rl;
+  writing-mode: vertical-rl;
+  /*transform: rotate(180deg);*/
+  white-space: nowrap;
+}
+
+label.tlx-label {
+  color: #555555;
+  font-size:  80%;
+}

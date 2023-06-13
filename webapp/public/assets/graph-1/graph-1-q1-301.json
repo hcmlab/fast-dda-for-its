@@ -1,0 +1,30 @@
+{
+	"graph_elements": [
+		{ "data": { "id": "A"}, "position": { "x": 226, "y": 117 } },
+		{ "data": { "id": "B"}, "position": { "x": 99, "y": 68 } },
+		{ "data": { "id": "C"}, "position": { "x": 172, "y": 150 } },
+		{ "data": { "id": "D"}, "position": { "x": 74, "y": 108 } },
+		{ "data": { "id": "E"}, "position": { "x": 227, "y": 179 } },
+		{ "data": { "id": "F"}, "position": { "x": 112, "y": 134 } },
+		{ "data": { "id": "G"}, "position": { "x": 255, "y": 64 } },
+		{ "data": { "id": "H"}, "position": { "x": 140, "y": 97 } },
+		{ "data": { "id": "I"}, "position": { "x": 145, "y": 21 } },
+		{ "data": { "id": "J"}, "position": { "x": 196, "y": 63 } },
+		{ "data": { "id": "AC", "source": "A", "target": "C" } },
+		{ "data": { "id": "AE", "source": "A", "target": "E" } },
+		{ "data": { "id": "AG", "source": "A", "target": "G" } },
+		{ "data": { "id": "AJ", "source": "A", "target": "J" } },
+		{ "data": { "id": "BF", "source": "B", "target": "F" } },
+		{ "data": { "id": "BH", "source": "B", "target": "H" } },
+		{ "data": { "id": "BI", "source": "B", "target": "I" } },
+		{ "data": { "id": "CE", "source": "C", "target": "E" } },
+		{ "data": { "id": "CF", "source": "C", "target": "F" } },
+		{ "data": { "id": "CH", "source": "C", "target": "H" } },
+		{ "data": { "id": "DF", "source": "D", "target": "F" } },
+		{ "data": { "id": "DH", "source": "D", "target": "H" } },
+		{ "data": { "id": "GJ", "source": "G", "target": "J" } },
+		{ "data": { "id": "HJ", "source": "H", "target": "J" } },
+		{ "data": { "id": "IJ", "source": "I", "target": "J" } }
+	],
+	"target": 5
+}

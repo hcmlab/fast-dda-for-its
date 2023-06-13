@@ -1,0 +1,1220 @@
+{
+    "graph-1-q1-1.json": {
+        "prob": 0.1998,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 22
+    },
+    "graph-1-q1-2.json": {
+        "prob": 0.4555,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 25
+    },
+    "graph-1-q1-3.json": {
+        "prob": 0.2048,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 32
+    },
+    "graph-1-q1-4.json": {
+        "prob": 0.3348,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 26
+    },
+    "graph-1-q1-5.json": {
+        "prob": 0.3767,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 22
+    },
+    "graph-1-q1-6.json": {
+        "prob": 0.5694,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 28
+    },
+    "graph-1-q1-7.json": {
+        "prob": 0.1146,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 38
+    },
+    "graph-1-q1-8.json": {
+        "prob": 0.5304,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 25
+    },
+    "graph-1-q1-9.json": {
+        "prob": 0.2403,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 27
+    },
+    "graph-1-q1-10.json": {
+        "prob": 0.6801,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 20
+    },
+    "graph-1-q1-11.json": {
+        "prob": 0.4145,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 25
+    },
+    "graph-1-q1-12.json": {
+        "prob": 0.6309,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 25
+    },
+    "graph-1-q1-13.json": {
+        "prob": 0.5723,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 21
+    },
+    "graph-1-q1-14.json": {
+        "prob": 0.2062,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 31
+    },
+    "graph-1-q1-15.json": {
+        "prob": 0.4121,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 24
+    },
+    "graph-1-q1-16.json": {
+        "prob": 0.4951,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 21
+    },
+    "graph-1-q1-17.json": {
+        "prob": 0.4366,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 29
+    },
+    "graph-1-q1-18.json": {
+        "prob": 0.2148,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 32
+    },
+    "graph-1-q1-19.json": {
+        "prob": 0.149,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 32
+    },
+    "graph-1-q1-20.json": {
+        "prob": 0.4684,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 29
+    },
+    "graph-1-q1-21.json": {
+        "prob": 0.3765,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 20
+    },
+    "graph-1-q1-22.json": {
+        "prob": 0.5611,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 28
+    },
+    "graph-1-q1-23.json": {
+        "prob": 0.5532,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 25
+    },
+    "graph-1-q1-24.json": {
+        "prob": 0.6795,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 22
+    },
+    "graph-1-q1-25.json": {
+        "prob": 0.372,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 29
+    },
+    "graph-1-q1-26.json": {
+        "prob": 0.1386,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 31
+    },
+    "graph-1-q1-27.json": {
+        "prob": 0.5811,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 21
+    },
+    "graph-1-q1-28.json": {
+        "prob": 0.5354,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 26
+    },
+    "graph-1-q1-29.json": {
+        "prob": 0.5745,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 32
+    },
+    "graph-1-q1-30.json": {
+        "prob": 0.2697,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 29
+    },
+    "graph-1-q1-31.json": {
+        "prob": 0.3417,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 27
+    },
+    "graph-1-q1-32.json": {
+        "prob": 0.3501,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 23
+    },
+    "graph-1-q1-33.json": {
+        "prob": 0.3496,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 25
+    },
+    "graph-1-q1-34.json": {
+        "prob": 0.4569,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 23
+    },
+    "graph-1-q1-35.json": {
+        "prob": 0.6488,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 24
+    },
+    "graph-1-q1-36.json": {
+        "prob": 0.3284,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 24
+    },
+    "graph-1-q1-37.json": {
+        "prob": 0.647,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 28
+    },
+    "graph-1-q1-38.json": {
+        "prob": 0.3977,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 26
+    },
+    "graph-1-q1-39.json": {
+        "prob": 0.3072,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 22
+    },
+    "graph-1-q1-40.json": {
+        "prob": 0.2022,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 23
+    },
+    "graph-1-q1-41.json": {
+        "prob": 0.1426,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 18
+    },
+    "graph-1-q1-42.json": {
+        "prob": 0.3913,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 28
+    },
+    "graph-1-q1-43.json": {
+        "prob": 0.158,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 29
+    },
+    "graph-1-q1-44.json": {
+        "prob": 0.432,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 24
+    },
+    "graph-1-q1-45.json": {
+        "prob": 0.1704,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 28
+    },
+    "graph-1-q1-46.json": {
+        "prob": 0.6539,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 27
+    },
+    "graph-1-q1-47.json": {
+        "prob": 0.4129,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 24
+    },
+    "graph-1-q1-48.json": {
+        "prob": 0.3081,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 23
+    },
+    "graph-1-q1-49.json": {
+        "prob": 0.2934,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 25
+    },
+    "graph-1-q1-50.json": {
+        "prob": 0.5923,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 21
+    },
+    "graph-1-q1-51.json": {
+        "prob": 0.2911,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 24
+    },
+    "graph-1-q1-52.json": {
+        "prob": 0.1878,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 22
+    },
+    "graph-1-q1-53.json": {
+        "prob": 0.1915,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 30
+    },
+    "graph-1-q1-54.json": {
+        "prob": 0.3485,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 32
+    },
+    "graph-1-q1-55.json": {
+        "prob": 0.4556,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 21
+    },
+    "graph-1-q1-56.json": {
+        "prob": 0.6014,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 29
+    },
+    "graph-1-q1-57.json": {
+        "prob": 0.6575,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 24
+    },
+    "graph-1-q1-58.json": {
+        "prob": 0.2986,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 24
+    },
+    "graph-1-q1-59.json": {
+        "prob": 0.2243,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 26
+    },
+    "graph-1-q1-60.json": {
+        "prob": 0.4399,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 28
+    },
+    "graph-1-q1-61.json": {
+        "prob": 0.1989,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 24
+    },
+    "graph-1-q1-62.json": {
+        "prob": 0.6962,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 31
+    },
+    "graph-1-q1-63.json": {
+        "prob": 0.5249,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 27
+    },
+    "graph-1-q1-64.json": {
+        "prob": 0.2881,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 36
+    },
+    "graph-1-q1-65.json": {
+        "prob": 0.2882,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 31
+    },
+    "graph-1-q1-66.json": {
+        "prob": 0.4906,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 23
+    },
+    "graph-1-q1-67.json": {
+        "prob": 0.5454,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 30
+    },
+    "graph-1-q1-68.json": {
+        "prob": 0.2028,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 23
+    },
+    "graph-1-q1-69.json": {
+        "prob": 0.5947,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 30
+    },
+    "graph-1-q1-70.json": {
+        "prob": 0.2672,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 31
+    },
+    "graph-1-q1-71.json": {
+        "prob": 0.3908,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 24
+    },
+    "graph-1-q1-72.json": {
+        "prob": 0.4523,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 26
+    },
+    "graph-1-q1-73.json": {
+        "prob": 0.2681,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 27
+    },
+    "graph-1-q1-74.json": {
+        "prob": 0.4385,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 29
+    },
+    "graph-1-q1-75.json": {
+        "prob": 0.5643,
+        "mis_size": 6,
+        "vertices": 16,
+        "edges": 33
+    },
+    "graph-1-q1-76.json": {
+        "prob": 0.4821,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 32
+    },
+    "graph-1-q1-77.json": {
+        "prob": 0.49,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 29
+    },
+    "graph-1-q1-78.json": {
+        "prob": 0.2865,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 30
+    },
+    "graph-1-q1-79.json": {
+        "prob": 0.2442,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 25
+    },
+    "graph-1-q1-80.json": {
+        "prob": 0.5264,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 31
+    },
+    "graph-1-q1-81.json": {
+        "prob": 0.2609,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 27
+    },
+    "graph-1-q1-82.json": {
+        "prob": 0.6227,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 26
+    },
+    "graph-1-q1-83.json": {
+        "prob": 0.3095,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 34
+    },
+    "graph-1-q1-84.json": {
+        "prob": 0.2671,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 29
+    },
+    "graph-1-q1-85.json": {
+        "prob": 0.29,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 20
+    },
+    "graph-1-q1-86.json": {
+        "prob": 0.573,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 22
+    },
+    "graph-1-q1-87.json": {
+        "prob": 0.1295,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 29
+    },
+    "graph-1-q1-88.json": {
+        "prob": 0.3783,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 35
+    },
+    "graph-1-q1-89.json": {
+        "prob": 0.3498,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 24
+    },
+    "graph-1-q1-90.json": {
+        "prob": 0.5496,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 23
+    },
+    "graph-1-q1-91.json": {
+        "prob": 0.3925,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 21
+    },
+    "graph-1-q1-92.json": {
+        "prob": 0.6499,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 26
+    },
+    "graph-1-q1-93.json": {
+        "prob": 0.5861,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 23
+    },
+    "graph-1-q1-94.json": {
+        "prob": 0.4776,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 25
+    },
+    "graph-1-q1-95.json": {
+        "prob": 0.1676,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 22
+    },
+    "graph-1-q1-96.json": {
+        "prob": 0.2899,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 27
+    },
+    "graph-1-q1-97.json": {
+        "prob": 0.2631,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 27
+    },
+    "graph-1-q1-98.json": {
+        "prob": 0.2792,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 28
+    },
+    "graph-1-q1-99.json": {
+        "prob": 0.1979,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 33
+    },
+    "graph-1-q1-100.json": {
+        "prob": 0.1663,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 35
+    },
+    "graph-1-q1-101.json": {
+        "prob": 0.2859,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 32
+    },
+    "graph-1-q1-102.json": {
+        "prob": 0.3832,
+        "mis_size": 7,
+        "vertices": 18,
+        "edges": 36
+    },
+    "graph-1-q1-103.json": {
+        "prob": 0.487,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 34
+    },
+    "graph-1-q1-104.json": {
+        "prob": 0.3029,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 32
+    },
+    "graph-1-q1-105.json": {
+        "prob": 0.1233,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 31
+    },
+    "graph-1-q1-106.json": {
+        "prob": 0.2221,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 36
+    },
+    "graph-1-q1-107.json": {
+        "prob": 0.4603,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 36
+    },
+    "graph-1-q1-108.json": {
+        "prob": 0.3381,
+        "mis_size": 7,
+        "vertices": 18,
+        "edges": 38
+    },
+    "graph-1-q1-109.json": {
+        "prob": 0.3022,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 29
+    },
+    "graph-1-q1-110.json": {
+        "prob": 0.6112,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 30
+    },
+    "graph-1-q1-111.json": {
+        "prob": 0.4185,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 36
+    },
+    "graph-1-q1-112.json": {
+        "prob": 0.5292,
+        "mis_size": 5,
+        "vertices": 11,
+        "edges": 15
+    },
+    "graph-1-q1-113.json": {
+        "prob": 0.5458,
+        "mis_size": 5,
+        "vertices": 11,
+        "edges": 20
+    },
+    "graph-1-q1-114.json": {
+        "prob": 0.2563,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 35
+    },
+    "graph-1-q1-115.json": {
+        "prob": 0.4225,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 32
+    },
+    "graph-1-q1-116.json": {
+        "prob": 0.4125,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 34
+    },
+    "graph-1-q1-117.json": {
+        "prob": 0.4448,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 27
+    },
+    "graph-1-q1-118.json": {
+        "prob": 0.5324,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 26
+    },
+    "graph-1-q1-119.json": {
+        "prob": 0.4323,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 23
+    },
+    "graph-1-q1-120.json": {
+        "prob": 0.3948,
+        "mis_size": 5,
+        "vertices": 11,
+        "edges": 20
+    },
+    "graph-1-q1-121.json": {
+        "prob": 0.3347,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 28
+    },
+    "graph-1-q1-122.json": {
+        "prob": 0.3265,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 21
+    },
+    "graph-1-q1-123.json": {
+        "prob": 0.408,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 19
+    },
+    "graph-1-q1-124.json": {
+        "prob": 0.4583,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 24
+    },
+    "graph-1-q1-125.json": {
+        "prob": 0.4515,
+        "mis_size": 5,
+        "vertices": 11,
+        "edges": 22
+    },
+    "graph-1-q1-126.json": {
+        "prob": 0.5499,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 19
+    },
+    "graph-1-q1-127.json": {
+        "prob": 0.3564,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 37
+    },
+    "graph-1-q1-128.json": {
+        "prob": 0.3212,
+        "mis_size": 5,
+        "vertices": 11,
+        "edges": 24
+    },
+    "graph-1-q1-129.json": {
+        "prob": 0.2787,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 23
+    },
+    "graph-1-q1-130.json": {
+        "prob": 0.427,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 23
+    },
+    "graph-1-q1-131.json": {
+        "prob": 0.4365,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 23
+    },
+    "graph-1-q1-132.json": {
+        "prob": 0.2071,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 23
+    },
+    "graph-1-q1-133.json": {
+        "prob": 0.4708,
+        "mis_size": 5,
+        "vertices": 13,
+        "edges": 29
+    },
+    "graph-1-q1-134.json": {
+        "prob": 0.4888,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 23
+    },
+    "graph-1-q1-135.json": {
+        "prob": 0.1313,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 34
+    },
+    "graph-1-q1-136.json": {
+        "prob": 0.3139,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 32
+    },
+    "graph-1-q1-137.json": {
+        "prob": 0.39,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 36
+    },
+    "graph-1-q1-138.json": {
+        "prob": 0.4661,
+        "mis_size": 5,
+        "vertices": 13,
+        "edges": 31
+    },
+    "graph-1-q1-139.json": {
+        "prob": 0.2064,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 24
+    },
+    "graph-1-q1-140.json": {
+        "prob": 0.3739,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 26
+    },
+    "graph-1-q1-141.json": {
+        "prob": 0.3066,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 26
+    },
+    "graph-1-q1-142.json": {
+        "prob": 0.3675,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 20
+    },
+    "graph-1-q1-143.json": {
+        "prob": 0.5335,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 24
+    },
+    "graph-1-q1-144.json": {
+        "prob": 0.5415,
+        "mis_size": 5,
+        "vertices": 11,
+        "edges": 25
+    },
+    "graph-1-q1-145.json": {
+        "prob": 0.3198,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 23
+    },
+    "graph-1-q1-146.json": {
+        "prob": 0.3405,
+        "mis_size": 5,
+        "vertices": 13,
+        "edges": 31
+    },
+    "graph-1-q1-147.json": {
+        "prob": 0.4877,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 30
+    },
+    "graph-1-q1-148.json": {
+        "prob": 0.5179,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 26
+    },
+    "graph-1-q1-149.json": {
+        "prob": 0.6007,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 31
+    },
+    "graph-1-q1-150.json": {
+        "prob": 0.4257,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 26
+    },
+    "graph-1-q1-151.json": {
+        "prob": 0.5578,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 28
+    },
+    "graph-1-q1-152.json": {
+        "prob": 0.3636,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 29
+    },
+    "graph-1-q1-153.json": {
+        "prob": 0.351,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 26
+    },
+    "graph-1-q1-154.json": {
+        "prob": 0.4487,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 19
+    },
+    "graph-1-q1-155.json": {
+        "prob": 0.1882,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 29
+    },
+    "graph-1-q1-156.json": {
+        "prob": 0.5388,
+        "mis_size": 5,
+        "vertices": 11,
+        "edges": 20
+    },
+    "graph-1-q1-157.json": {
+        "prob": 0.3601,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 29
+    },
+    "graph-1-q1-158.json": {
+        "prob": 0.4845,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 38
+    },
+    "graph-1-q1-159.json": {
+        "prob": 0.4714,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 28
+    },
+    "graph-1-q1-160.json": {
+        "prob": 0.464,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 30
+    },
+    "graph-1-q1-161.json": {
+        "prob": 0.4545,
+        "mis_size": 5,
+        "vertices": 11,
+        "edges": 18
+    },
+    "graph-1-q1-162.json": {
+        "prob": 0.5489,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 26
+    },
+    "graph-1-q1-163.json": {
+        "prob": 0.4,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 35
+    },
+    "graph-1-q1-164.json": {
+        "prob": 0.2445,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 25
+    },
+    "graph-1-q1-165.json": {
+        "prob": 0.2089,
+        "mis_size": 5,
+        "vertices": 11,
+        "edges": 16
+    },
+    "graph-1-q1-166.json": {
+        "prob": 0.5323,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 18
+    },
+    "graph-1-q1-167.json": {
+        "prob": 0.505,
+        "mis_size": 5,
+        "vertices": 11,
+        "edges": 16
+    },
+    "graph-1-q1-168.json": {
+        "prob": 0.5372,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 29
+    },
+    "graph-1-q1-169.json": {
+        "prob": 0.4468,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 25
+    },
+    "graph-1-q1-170.json": {
+        "prob": 0.3375,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 27
+    },
+    "graph-1-q1-171.json": {
+        "prob": 0.5051,
+        "mis_size": 5,
+        "vertices": 11,
+        "edges": 18
+    },
+    "graph-1-q1-172.json": {
+        "prob": 0.4689,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 26
+    },
+    "graph-1-q1-173.json": {
+        "prob": 0.266,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 36
+    },
+    "graph-1-q1-174.json": {
+        "prob": 0.146,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 32
+    },
+    "graph-1-q1-175.json": {
+        "prob": 0.2871,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 22
+    },
+    "graph-1-q1-176.json": {
+        "prob": 0.2265,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 25
+    },
+    "graph-1-q1-177.json": {
+        "prob": 0.3056,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 24
+    },
+    "graph-1-q1-178.json": {
+        "prob": 0.3743,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 24
+    },
+    "graph-1-q1-179.json": {
+        "prob": 0.4117,
+        "mis_size": 5,
+        "vertices": 11,
+        "edges": 21
+    },
+    "graph-1-q1-180.json": {
+        "prob": 0.3653,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 29
+    },
+    "graph-1-q1-181.json": {
+        "prob": 0.3758,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 30
+    },
+    "graph-1-q1-182.json": {
+        "prob": 0.3772,
+        "mis_size": 5,
+        "vertices": 11,
+        "edges": 19
+    },
+    "graph-1-q1-183.json": {
+        "prob": 0.2148,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 23
+    },
+    "graph-1-q1-184.json": {
+        "prob": 0.2761,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 22
+    },
+    "graph-1-q1-185.json": {
+        "prob": 0.596,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 26
+    },
+    "graph-1-q1-186.json": {
+        "prob": 0.3079,
+        "mis_size": 5,
+        "vertices": 11,
+        "edges": 15
+    },
+    "graph-1-q1-187.json": {
+        "prob": 0.1749,
+        "mis_size": 6,
+        "vertices": 14,
+        "edges": 28
+    },
+    "graph-1-q1-188.json": {
+        "prob": 0.3061,
+        "mis_size": 6,
+        "vertices": 13,
+        "edges": 24
+    },
+    "graph-1-q1-189.json": {
+        "prob": 0.2853,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 29
+    },
+    "graph-1-q1-190.json": {
+        "prob": 0.2157,
+        "mis_size": 7,
+        "vertices": 16,
+        "edges": 30
+    },
+    "graph-1-q1-191.json": {
+        "prob": 0.0991,
+        "mis_size": 7,
+        "vertices": 17,
+        "edges": 34
+    },
+    "graph-1-q1-301.json": {
+        "prob": 0.3278,
+        "mis_size": 5,
+        "vertices": 10,
+        "edges": 15
+    },
+    "graph-1-q1-302.json": {
+        "prob": 0.4109,
+        "mis_size": 5,
+        "vertices": 10,
+        "edges": 18
+    },
+    "graph-1-q1-303.json": {
+        "prob": 0.2236,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 28
+    },
+    "graph-1-q1-304.json": {
+        "prob": 0.2788,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 33
+    },
+    "graph-1-q1-305.json": {
+        "prob": 0.1605,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 25
+    },
+    "graph-1-q1-306.json": {
+        "prob": 0.1632,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 26
+    },
+    "graph-1-q1-307.json": {
+        "prob": 0.3360,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 22
+    },
+    "graph-1-q1-308.json": {
+        "prob": 0.2974,
+        "mis_size": 5,
+        "vertices": 12,
+        "edges": 20
+    },
+    "graph-1-q1-309.json": {
+        "prob": 0.2236,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 28
+    },
+    "graph-1-q1-310.json": {
+        "prob": 0.2788,
+        "mis_size": 6,
+        "vertices": 15,
+        "edges": 33
+    },
+    "graph-1-q1-311.json": {
+        "prob": 0.1342,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 24
+    },
+    "graph-1-q1-312.json": {
+        "prob": 0.1280,
+        "mis_size": 7,
+        "vertices": 15,
+        "edges": 22
+    }
+}
